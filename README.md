@@ -106,5 +106,6 @@ This project transforms raw sales data into actionable intelligence — empoweri
 ## 🧑‍💻 Author
 
 **Kshitija Agrawal**
-📧 [[your.email@example.com](kshitijaagrawal2@gmail.com)]
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+📧 [your.email@example.com](kshitijaagrawal2@gmail.com)
+🔗 LinkedIn(https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+ • GitHub(https://github.com/Kshitija-Agrawal)
