@@ -27,7 +27,8 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ## 📊 Dataset Description
 
-* [Retail\_and\_Warehouse\_Sale.csv]("C:\Users\Kshitija Agrawal\Downloads\Retail and wherehouse Sale.csv")
+> 🔗 **Dataset Link:** [Retail and wherehouse Sale.csv]([./Retail%20and%20wherehouse%20Sale.csv](https://github.com/Kshitija-Agrawal/retailpulse-insights/blob/main/Retail%20and%20wherehouse%20Sale.csv))  
+
 
 | Column Name      | Description                        |
 | ---------------- | ---------------------------------- |
@@ -95,7 +96,7 @@ RetailPulse-Insights/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/RetailPulse-Insights.git
+   git clone https://github.com/Kshitija-Agrawal/retailpulse-insights
    cd RetailPulse-Insights
    ```
 2. **Open in Google Colab**
