@@ -27,7 +27,7 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ## 📊 Dataset Description
 
-**Dataset:** [Retail and warehouse Sale.csv]("C:\Users\Kshitija Agrawal\Downloads\Retail and wherehouse Sale.csv")
+* [Retail\_and\_Warehouse\_Sale.csv]("C:\Users\Kshitija Agrawal\Downloads\Retail and wherehouse Sale.csv")
 
 | Column Name      | Description                        |
 | ---------------- | ---------------------------------- |
