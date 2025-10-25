@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab" />
   <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-brightgreen" />
-  <img src="https://img.shields.io/badge/Status-Completed-success" />
 </p>
 
 ---
@@ -28,7 +27,7 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ## 📊 Dataset Description
 
-**Dataset:** `Retail and warehouse Sale.csv`
+**Dataset:** `Retail and warehouse Sale.csv`("C:\Users\Kshitija Agrawal\Downloads\Retail and wherehouse Sale.csv")
 
 | Column Name      | Description                        |
 | ---------------- | ---------------------------------- |
@@ -59,7 +58,7 @@ This project transforms raw sales data into actionable intelligence — empoweri
 | Category      | Tools / Libraries                       |
 | ------------- | --------------------------------------- |
 | Environment   | **Google Colab**                        |
-| Language      | **Python (v3.10)**                      |
+| Language      | **Python**                              |
 | Data Analysis | **Pandas**, **NumPy**                   |
 | Visualization | **Matplotlib**, **Seaborn**, **Plotly** |
 
