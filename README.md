@@ -2,9 +2,6 @@
 
 > **Data-Driven Retail and Warehouse Analytics for Smarter Business Decisions**
 
-<p align="center">
-  <img src="https://github.com/<Kshitija-Agrawal>/RetailPulse-Insights/assets/banner-retailpulse.png" alt="RetailPulse Insights Banner" width="80%">
-</p>
 
 ---
 
