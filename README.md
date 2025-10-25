@@ -79,27 +79,6 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ---
 
-## ⚙️ How to Run the Project
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/Kshitija-Agrawal/retailpulse-insights
-   cd RetailPulse-Insights
-   ```
-2. **Open in Google Colab**
-
-   * Visit [Google Colab](https://colab.research.google.com/)
-   * Upload the notebook and dataset
-3. **Install required packages**
-
-   ```python
-   !pip install pandas matplotlib seaborn plotly
-   ```
-4. **Run all cells** to explore EDA and insights.
-
----
-
 ## 🧑‍💻 Author
 
 **Kshitija Agrawal**
