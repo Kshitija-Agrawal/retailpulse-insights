@@ -27,7 +27,7 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ## 📊 Dataset Description
 
-> 🔗 **Dataset Link:** [Retail and wherehouse Sale.csv]([./Retail%20and%20wherehouse%20Sale.csv](https://github.com/Kshitija-Agrawal/retailpulse-insights/blob/main/Retail%20and%20wherehouse%20Sale.csv))  
+> 🔗 **Dataset Link:** [Retail and wherehouse Sale.csv](https://github.com/Kshitija-Agrawal/retailpulse-insights/blob/main/Retail%20and%20wherehouse%20Sale.csv)  
 
 
 | Column Name      | Description                        |
@@ -76,18 +76,9 @@ This project transforms raw sales data into actionable intelligence — empoweri
 
 ## 📁 Project Structure
 
-```
-RetailPulse-Insights/
-│
-├── data/
-│   └── Retail and warehouse Sale.csv
-│
-├── notebooks/
-│   └── Capstone_project.ipynb
-│
-├── requirements.txt
-└── README.md
-```
+> 🔗 **Dataset Link:** [Retail and wherehouse Sale.csv](https://github.com/Kshitija-Agrawal/retailpulse-insights/blob/main/Retail%20and%20wherehouse%20Sale.csv)  
+> 🐍 **Python Script:** [Reatail and warehouse.py](https://github.com/Kshitija-Agrawal/retailpulse-insights/blob/main/Reatail%20and%20warehouse.py)
+
 
 ---
 
